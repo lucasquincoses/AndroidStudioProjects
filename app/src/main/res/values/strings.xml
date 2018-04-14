@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NACDado
+
+    <string name="vitorias">vitorias</string >
+    <string name="empates">empates</string >
+    <string name="derrotas">derrotas</string >
+
+    </string>
+
+
+</resources>
